@@ -1,10 +1,10 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: red; icon-glyph: sun;
-const YOUR_NAME 	= 'Sam'
-const LOCALE 		= 'fa_IR'
-const API_WEATHER 	= "b36b258dad73b10f00dcc79f99525378"; //Load Your api here
-const CITY_WEATHER 	= "112931"; //add your city ID
+const YOUR_NAME 	= ''
+const LOCALE 		= ''
+const API_WEATHER 	= ""; //Load Your api here
+const CITY_WEATHER 	= ""; //add your city ID
 const THEME_COLOR	= '#ffffff'
 
 const today 		= new Date();
