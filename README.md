@@ -4,7 +4,7 @@
     <img width="500" alt="Home-Intro-Widget-V2" src ="./ED141B09-D82C-400E-A65E-386C9FF9B66D.jpeg">
 </p>
 
-A stylish transparent Intro widget with ability of both medium and large size for your homescreen. It has localization for any language.
+A stylish transparent Intro widget with ability of both medium and large size for your homescreen. It has localization for any language and work in offline as well.
 Check out screenshot for more info.
 
 Version 2 has new battery and new calendar type.
