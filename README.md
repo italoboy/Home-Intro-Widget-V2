@@ -7,7 +7,7 @@
 A stylish transparent Intro widget with ability of both medium and large size for your homescreen. It has localization for any language.
 Check out screenshot for more info.
 
-Version 2 has new battery.
+Version 2 has new battery and new calender type.
 
 Guideance: Put your API and City Code from openweathermap.org, also your local/country code.
 
