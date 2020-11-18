@@ -149,7 +149,7 @@ widget.setPadding(5, 0, 0, 0)
 	hStack.centerAlignContent()
 	
 	// Date label in stack
-	//const dateString = `${formatDate('EEEE, MMM dd',today)}${nth(today.getDate())}`
+
 	const dateString = formatDate('EEEE d MMMM',today)
 	const datetext = hStack.addText(dateString);
 	datetext.font = Font.boldSystemFont(20);
