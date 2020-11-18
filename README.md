@@ -1,7 +1,7 @@
 # Home-Intro-Widget-V2
 
 <p align="center" >
-    <img width="500" alt="Home-Intro-Widget-V2" src ="./399E0FA7-D8C3-4821-9BCE-1C0C99468E6E.jpeg">
+    <img width="500" alt="Home-Intro-Widget-V2" src ="./ED141B09-D82C-400E-A65E-386C9FF9B66D.jpeg">
 </p>
 
 A stylish transparent Intro widget with ability of both medium and large size for your homescreen. It has localization for any language.
