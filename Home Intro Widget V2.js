@@ -150,7 +150,7 @@ widget.setPadding(5, 0, 0, 0)
 	
 	// Date label in stack
 
-	const dateString = formatDate('EEEE d MMMM',today)
+	const dateString = formatDate('EEEE MMMM d',today)
 	const datetext = hStack.addText(dateString);
 	datetext.font = Font.boldSystemFont(20);
 	datetext.textColor = themeColor;
