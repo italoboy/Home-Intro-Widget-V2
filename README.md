@@ -7,9 +7,9 @@
 A stylish transparent Intro widget with ability of both medium and large size for your homescreen. It has localization for any language and works in offline as well.
 Check out screenshot for more info.
 
-## Version 2 has new battery and new calendar type.
+### Version 2 has new battery and new calendar type.
 
 ## Guideance: Put your API and City Code from openweathermap.org, also your local/country code.
 
-## Workable widget Size: Large, Medium.
+### Workable widget Size: Large, Medium.
 
