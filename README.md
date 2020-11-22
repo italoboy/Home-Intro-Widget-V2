@@ -9,7 +9,7 @@ Check out screenshot for more info.
 
 ## Version 2 has new battery and new calendar type.
 
-# Guideance: Put your API and City Code from openweathermap.org, also your local/country code.
+## Guideance: Put your API and City Code from openweathermap.org, also your local/country code.
 
 ## Workable widget Size: Large, Medium.
 
